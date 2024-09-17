@@ -4,7 +4,7 @@
 </script>
 
 <nav
-	class="z-50 flex w-full items-center justify-between overflow-hidden overflow-x-hidden bg-white p-4 md:hidden"
+	class="z-50 flex h-20 w-full items-center justify-between overflow-hidden overflow-x-hidden bg-white p-4 md:hidden"
 >
 	<button
 		onclick={() => {

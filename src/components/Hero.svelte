@@ -7,8 +7,8 @@
 			class="h-auto max-h-[400px] w-full object-cover object-center"
 			src="/hero-photo.png"
 			alt="hero"
-			width="auto"
-			height="auto"
+			width="400"
+			height="400"
 		/>
 	</div>
 	<div
